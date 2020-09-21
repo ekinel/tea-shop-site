@@ -5,6 +5,6 @@ Web-page of tea shop with bootstrap.
 
 [logo]: https://github.com/ekinel/tea-shop-site/blob/master/img/scrin-1.PNG
 
-![][logo]
+![][log]
 
-[logo]: https://github.com/ekinel/tea-shop-site/blob/master/img/scrin-2.PNG
+[log]: https://github.com/ekinel/tea-shop-site/blob/master/img/scrin-2.PNG
